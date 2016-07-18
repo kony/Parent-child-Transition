@@ -2,9 +2,10 @@
 
 Application to show the Parent to child Transition animation using kony animations.
 
-What is Parent to child Transition ? In material design, elevation changes indicate changes in focus from parent to child elements. The surface that the user touches should lift up and expand into place from its origin. This expansion and motion highlights movement away from the parent towards a destination (a child element) in a natural movement using the material motion curve.
+**What is Parent to child Transition ? **
+In material design, elevation changes indicate changes in focus from parent to child elements. The surface that the user touches should lift up and expand into place from its origin. This expansion and motion highlights movement away from the parent towards a destination (a child element) in a natural movement using the material motion curve.
 
-Screen reactions occurring near the point of touch should occur sooner than reactions further away. https://material.google.com/patterns/navigational-transitions.html#navigational-transitions-parent-to-child
+ https://material.google.com/patterns/navigational-transitions.html#navigational-transitions-parent-to-child
 
 
 **To Run This App for Kony Visualizer Enterprise:**
