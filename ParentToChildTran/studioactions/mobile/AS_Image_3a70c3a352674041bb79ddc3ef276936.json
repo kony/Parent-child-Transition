@@ -1,0 +1,27 @@
+{
+    "AS_Image_3a70c3a352674041bb79ddc3ef276936": {
+        "id": "AS_Image_3a70c3a352674041bb79ddc3ef276936",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchEnd_f6a710fc91e245c7b3416a956126738d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "on_click_animation",
+            "display": "on_click_animation",
+            "inputparams": [{
+                "name": "currentWidget",
+                "value": " eventobject.id"
+            }],
+            "callbackType": null
+        }]
+    }
+}
